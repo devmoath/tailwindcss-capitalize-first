@@ -1,4 +1,4 @@
-# @devmoath/tailwindcss-capitalize-first [![Node.js Package](https://github.com/DevMoath/tailwindcss-capitalize-first/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/DevMoath/tailwindcss-capitalize-first/actions/workflows/npm-publish.yml)
+# @devmoath/tailwindcss-capitalize-first [![Node.js Package](https://github.com/DevMoath/tailwindcss-capitalize-first/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/DevMoath/tailwindcss-capitalize-first/actions/workflows/npm-publish.yml) ![npm](https://img.shields.io/npm/dt/@devmoath/tailwindcss-capitalize-first)
 
 Add utility class to capitalize first letter of a paragraph.
 
